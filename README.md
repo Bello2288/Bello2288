@@ -29,5 +29,4 @@ Technologies I have worked with ↓
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bello2288&show_icons=true&theme=gruvbox" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bello2288&theme=gruvbox" />
